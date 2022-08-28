@@ -1,0 +1,9 @@
+spring:
+  graphql:
+    schema:
+      printer:
+        enabled: true
+    cors:
+      allowed-origins: '*'
+    graphiql:
+      enabled: true
